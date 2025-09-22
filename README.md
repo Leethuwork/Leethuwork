@@ -9,12 +9,6 @@
 
 ===========================================================================
 
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Leethu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leethuworkmail@gmail.com) 
-
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftUI-8E24AA?style=for-the-badge&logo=swift&logoColor=white) 
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
