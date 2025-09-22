@@ -24,7 +24,7 @@
 # 📱 Personal apps:
 # Time Aware 
 
-<img src = "IMG_1630.PNG">   <br>
+<img src = "IMG_1630.PNG">   <br> <br>
 
 # Spelling Adventure
 
