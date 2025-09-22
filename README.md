@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   Hi, I'm Leethu!<br>👩🏻‍💻  iOS Developer, building mobile applications for 10+ years <br>🌍  I'm based in Sydney, Australia <br>
 🖥️  See my apps [here](http://apps.apple.com/au/developer/leethu-mathai/id1709619373)<br>
-✉️  You can contact me at [leethumk@gmail.com](mailto:leethumk@gmail.com) <br>
+✉️  You can contact me at [leethumk@gmail.com](mailto:leethumk@gmail.com) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Leethu) <br>
 🚀  Working on [Spelling Adventure mobile app](http://apps.apple.com/au/app/spelling-adventure/id6748345312) <br>
 🧠  Currently learning AI tools and Python<br>   
 
