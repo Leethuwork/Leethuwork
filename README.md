@@ -22,11 +22,11 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Leethuwork&theme=dark&hide_border=false)<br/>
 # 📱 Personal apps:
-# Time Aware 
+# [Time Aware](https://apps.apple.com/au/app/time-aware/id6468224019)
 
 <img src = "IMG_1630.PNG">   <br> <br>
 
-# Spelling Adventure
+# [Spelling Adventure](http://apps.apple.com/au/app/spelling-adventure/id6748345312)
 
 <img src = "IMG_3222.PNG">
 
